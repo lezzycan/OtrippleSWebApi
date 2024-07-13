@@ -1,0 +1,6 @@
+@OtrippleSWebApi_HostAddress = http://localhost:5233
+
+GET {{OtrippleSWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
